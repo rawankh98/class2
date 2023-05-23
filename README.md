@@ -6,6 +6,4 @@
 
 ---
 
-- nothing to commit
-
-* italic text*
+- new text
