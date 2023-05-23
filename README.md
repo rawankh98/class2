@@ -7,3 +7,5 @@
 ---
 
 - nothing to commit
+
+* italic text*
